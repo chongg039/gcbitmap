@@ -5,6 +5,8 @@
 #ifndef GCBITMAP_BITMAP_H
 #define GCBITMAP_BITMAP_H
 
+#include <memory>
+#include <cstring>
 #include <iostream>
 #include "common.h"
 
