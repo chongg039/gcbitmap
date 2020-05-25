@@ -1,1 +1,0 @@
-add_library(bitmap bitmap.cc)
